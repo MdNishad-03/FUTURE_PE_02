@@ -28,3 +28,5 @@ Problem → Solution → Proof → CTA (PSC Framework)
 ## Files in This Repo
 - /prompts → The 3 master prompts
 - /outputs → Generated ad scripts and hooks
+- ## Ad Creative Output
+![BrewLocal Coffee UGC Ad](outputs/brewlocal-coffee-ad.png)
